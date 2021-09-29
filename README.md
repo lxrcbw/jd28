@@ -6,3 +6,5 @@
 
 此库暂停使用
 
+新库https://github.com/inoyna12/JDsc，支持青龙和手机termux运行
+
